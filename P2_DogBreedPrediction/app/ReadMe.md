@@ -26,7 +26,7 @@
 
 % conda install -c apple tensorflow-deps
 
-% conda install bumpy
+% conda install numpy
 ```
 
 ### Running streamlit 
